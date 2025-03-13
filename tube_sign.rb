@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'RMagick'
+require 'rmagick'
 include Magick
 
 get '/' do
